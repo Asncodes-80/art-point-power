@@ -1,7 +1,7 @@
 # CustomPaint, My art inside that!
 
 <aside>
-💡 Screenshots get in iPhone 13 Pro screen, to have any screen size, clone this project and make it your self!
+💡 Screenshots got in iPhone 13 Pro screen, to have any screen size, clone this project and make it your self!
 
 </aside>
 
